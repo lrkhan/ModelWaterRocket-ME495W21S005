@@ -59,7 +59,7 @@ def initPyGame():
 
     #title and icon
     pygame.display.set_caption("Water Bottle Rocket Sim V0.1")
-    icon = pygame.image.load('rocketlogo.png')
+    icon = pygame.image.load('./imgs/rocketlogo.png')
     pygame.display.set_icon(icon)
 
     #font
@@ -70,8 +70,8 @@ def initPyGame():
 
 def rocket(pos):
     #rocket image
-    rocketOn = pygame.image.load('rocket_on.png')
-    rocketOff = pygame.image.load('rocket_off.png')
+    rocketOn = pygame.image.load('./imgs/rocket_on.png')
+    rocketOff = pygame.image.load('./imgs/rocket_off.png')
     
     if pos[1] < minYrocket-10:
         screen.blit(rocketOn, (pos[0], pos[1]))

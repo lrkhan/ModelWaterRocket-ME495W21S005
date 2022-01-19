@@ -4,11 +4,11 @@
  Lab 3 - Model Water Rocket Code
 
 
-The program works through a command line interface (CLI) and once the numbers have been crunched the program displays an animated 2D flight path of a water bottle rocket as well as plots for acceleration, velocity, position, and air pressue in the bottle. 
+The program works through a command line interface (CLI) and once the numbers have been crunched the program displays an animated 2D flight of a water bottle rocket as well as plots for of various parameters of the bottle. 
 
 The program has two focuses:
-- Compute the mathematical model of the water bottle rocket's various stages of flight to determine its' trajectory. (done in waterRocket.py)
-- Make the program interactive so it can be used to teach students in various grades. (done in RocketSim.py)
+- Compute the mathematical model of the water bottle rocket's various stages of flight to determine its' trajectory. (Accomplished in waterRocket.py)
+- Make the program interactive so it can be used to teach students in various grades. (Accomplished in RocketSim.py)
 
 ## Requirements
 - Pyhton 3 or higher
