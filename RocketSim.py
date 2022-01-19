@@ -193,7 +193,7 @@ def main(dataIn, time, maxHeight, maxDis):
         rocket([100+px,minYrocket-py])
         
         if i < time.size-1:
-            i += 1
+            i += 10
         
         #update display
         pygame.display.update()
@@ -213,7 +213,7 @@ if __name__ == "__main__":
     print("Preparing Launch")
     
 
-    #main(data, time[:data.shape[0]], maxHeight, maxDis)
+    main(data, time[:data.shape[0]], maxHeight, maxDis)
     
     index = data.shape[0]-1
     flightDir = str(round(time[index],3)) + " seconds "
@@ -222,7 +222,7 @@ if __name__ == "__main__":
     print("The rocket flew for " + flightDir + "with max height of " + height + "and a max distance of " + dis)
     print()
 
-    ans = 'n'#str(input("Would you like to see the plot? (y/n) "))
+    ans = str(input("Would you like to see the plot? (y/n) "))
     
     if ans == 'y':
         plotDat(data, time[:data.shape[0]])

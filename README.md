@@ -18,6 +18,26 @@ The program has two focuses:
   - Pandas
   - MatPlotLib
 
-## Example
-
+## Example (played at over 200% speed. Approx Run Time: 1.5 minutes)
 ![](waterRocketVideo.gif)
+
+Inputs Selected for the Video: 
+- Height of Water (cm): 10
+- Air Pressure (Pa): 482633
+
+## Screenshots 
+- Greetings:
+![Greeting Message](greeting.png "Greeting")
+
+- Input:
+![Request for Input - Water](./screenshots/inputWater.png "Inputs Water")
+
+![Request for Input - Air](inputAir.png "Inputs Air")
+
+- Animation:
+![Launch Terminal Info](./screenshots/launch1.png "Launch Info")
+
+![Launch Animation](./screenshots/launch2.png "Launch Animation")
+
+- Plot:
+![Plots of Launch](./screenshots/plot.png "Plots of Launch")
