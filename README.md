@@ -1,4 +1,4 @@
-# ME495W21S005
+# Model Water Bottle Rocket - ME495 W21 S005
  University of Michigan
  MECHENG 495 W21 Section 005
  Lab 3 - Model Water Rocket Code
