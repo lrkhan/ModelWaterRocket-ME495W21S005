@@ -26,18 +26,16 @@ Inputs Selected for the Video:
 - Air Pressure (Pa): 482633
 
 ## Screenshots 
-- Greetings:
-![Greeting Message](greeting.png "Greeting")
+Greetings:
+- ![Greeting Message](greeting.png "Greeting")
 
-- Input:
-![Request for Input - Water](./screenshots/inputWater.png "Inputs Water")
+Input:
+- ![Request for Input - Water](./screenshots/inputWater.png "Inputs Water")
+- ![Request for Input - Air](inputAir.png "Inputs Air")
 
-![Request for Input - Air](inputAir.png "Inputs Air")
+Animation:
+- ![Launch Terminal Info](./screenshots/launch1.png "Launch Info")
+- ![Launch Animation](./screenshots/launch2.png "Launch Animation")
 
-- Animation:
-![Launch Terminal Info](./screenshots/launch1.png "Launch Info")
-
-![Launch Animation](./screenshots/launch2.png "Launch Animation")
-
-- Plot:
-![Plots of Launch](./screenshots/plot.png "Plots of Launch")
+Plot:
+- ![Plots of Launch](./screenshots/plot.png "Plots of Launch")
