@@ -27,11 +27,11 @@ Inputs Selected for the Video:
 
 ## Screenshots 
 Greetings:
-- ![Greeting Message](greeting.png "Greeting")
+- ![Greeting Message](./screenshots/greeting.png "Greeting")
 
 Input:
 - ![Request for Input - Water](./screenshots/inputWater.png "Inputs Water")
-- ![Request for Input - Air](inputAir.png "Inputs Air")
+- ![Request for Input - Air](./screenshots/inputAir.png "Inputs Air")
 
 Animation:
 - ![Launch Terminal Info](./screenshots/launch1.png "Launch Info")
